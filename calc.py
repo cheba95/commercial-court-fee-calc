@@ -1,8 +1,5 @@
 from tkinter import *
 from tkinter import ttk
-# можно сделать для сою
-# можно сделать также выбор типа заявления и ввести фиксы
-# сделать защиту от дурака
 def clicked():
     y = x.get()
     y = y.replace(',', ".")
